@@ -12,8 +12,8 @@
 #define OUTPUT_PIN D6
 #define OUTPUT_DELAY 500
 
-const char *ssid = "Wesley";
-const char *pass = "7246307817";
+const char *ssid = "SSID";
+const char *pass = "PASSWORD";
 bool targetPowered = false;
 bool targetReached = true;
 int checkTimer = 500;
